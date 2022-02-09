@@ -14,6 +14,10 @@
     <meta name="revisit-after" content="7 days">
     <meta name="author" content="spotknack">
     <title> Spotknack Talent Community | Of Like Minded </title>
+     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.js" integrity="sha512-j+F4W//4Pu39at5I8HC8q2l1BNz4OF3ju39HyWeqKQagW6ww3ZF9gFcu8rzUbyTDY7gEo/vqqzGte0UPpo65QQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css" integrity="sha512-eMxdaSf5XW3ZW1wZCrWItO2jZ7A9FhuZfjVdztr7ZsKNOmt6TUMTQgfpNoVRyfPE5S9BC0A4suXzsGSrAOWcoQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/main.css">
@@ -139,59 +143,80 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div><br><br>
+<!--carousel-->
+    <section id="slider">
+        <div class="container">
+            <div class="subcontainer">
+                <div class="slider-wrapper">
+                   <h4 class="upcoming">Our Upcoming Events</h4>
+                    <br>
+                    <div class="my-slider">
+                      
+                     
 
-    <div class="Green-Container">
-        <span class="click">&#139;</span>
-        <span class="click">&#155;</span>
-          <div class="Rectangle-185" id="slider">
-          <div class="Rectangle-186"  onclick="navigationpage5()">
-        
-              <img src="" id="img-1" width="350px" height="200px"> </div>
-              <span id="event-1" class="event" ></span>
-              <span id="date-1" class="date"></span>
-              <div id="abt-1" class="abt"></div>
-             
-          </div>
-          <div class="Rectangle-185"  id="slider">
-          <div class="Rectangle-186" onclick="navigationpage4()">
-             
-                  <img src="" id="img-2" width="350px" height="200px"> </div>
-                  <span id="event-2" class="event"></span>
-                  <span id="date-2" class="date"></span>
-                  <div id="abt-2" class="abt"></div>
-                
-              </div>
-              <div class="Rectangle-185"  id="slider">
-              <div class="Rectangle-186" onclick="navigationpage3()">
-                  <img src="" id="img-3" width="350px" height="200px"> 
-  
-                       </div>
-                      <span id="event-3" class="event" ></span>
-                      <span id="date-3" class="date"></span>
-                      <div id="abt-3" class="abt"></div>
-                     </div>
-                  
-                  <div class="Rectangle-185"  id="slider">
-                      <div class="Rectangle-186" onclick="navigationpage2()" >
+                    <div class="Rectangle-185">
+                        <div class="slide" id="Rectangle-186"  onclick="navigationpage4()">
+                          
+                              <img src ="img/events/frontend.jpg" id="img" >
+                           
+                            <span id="event-2" class="event">FRONTEND DEVELOPMENT</span>
+                            <span id="date-2" class="date">Feb 05,2022</span>
+                            <div id="abt-2" class="abt">A refreshing and beginner friendly event on frontend development.</div>
                          
-                              <img src="" id="img-4"width="350px" height="200px"> </div>
-                              <span id="event-4" class="event"></span>
-                              <span id="date-4" class="date"></span>
-                              <div id="abt-4" class="abt"></div>
-                             </div>
-                        
-                          <div class="Rectangle-185"  id="slider">
-                              <div class="Rectangle-186"  onclick="navigationpage1()">
-                                 
-                                      <img src="" id="img-5"width="350px" height="200px">  </div>
-                                      <span id="event-5" class="event"></span>
-                                      <span id="date-5" class="date"></span>
-                                      <div id="abt-5" class="abt"></div>
-                                     </div>
-                                  </div>
-      </div>
+                        </div>
+                    </div>
+                    <div class="Rectangle-185">
+                        <div class="slide" id="Rectangle-186"  onclick="navigationpage3()">
+                          
+                              <img src="img/events/Github.jpg" id="img" >
+                            
+                            <span id="event-3" class="event">Github</span>
+                            <span id="date-3" class="date">Jan 22,2022</span>
+                            <div id="abt-3" class="abt">A event on github,which acts as a web-based interface and also as a best platform.</div>
+                         
+                         
+                        </div>
+                    </div>
+                    
+                    <div class="Rectangle-185">
+                        <div class="slide" id="Rectangle-186"  onclick="navigationpage2()">
+                           
+                              <img src="img/events/Data Science.jpeg" id="img" >
+                          
+                            <span class="event" >DATA SCIENCE</span>
+                            <span  class="date">Dec 12,2021</span>
+                            <div class="abt">A intellectual and eye opening event on data science for acknowledging our students regarding the various skillsets .</div>
+                         
+                        </div>
+                    </div>
 
+                    <div class="Rectangle-185">
+                        <div class="slide" id="Rectangle-186"  onclick="navigationpage1()">
+                            
+                              <img src="img/events/your next step.jpg" id="img">
+                           
+                            <span  class="event" >YOUR NEXT STEP</span>
+              <span  class="date">Oct 8,2021</span>
+              <div  class="abt">A career guiding event called Your next step ,where various career 
+                  opportunities in IT sector are  explained .</div>
+                        </div>
+                    </div>
+                </div><br>
+                <div>
+                <h4  id="upcoming">Our Upcoming Events</h4></div>
+                <div class="controller">
+                        
+                    <div id="controls">
+                        <button class="previous"><i class="fas fa-angle-left"></i></button>
+                        <button class="next"><i class="fas fa-angle-right"></i></button>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+
+            </section>
      
 
     <!--=====Hear From Our Community Section=====-->
@@ -331,6 +356,35 @@
         t.parentNode.insertBefore(s, t);
     </script>
     <script src="js/event.js"></script>
+    <script>
+        let slider =tns({
+       container:".my-slider",
+       "slideBy":1,
+       "speed":100,
+       "nav":false,
+       controlsContainer:"#controls",
+       prevButton:".previous",
+       nextButton:".next",
+       responsive:{
+           1600: {
+               items:2,
+              
+           },
+           1024:{
+               items:2,
+             
+           },
+           768:{
+               items:2,
+             
+           },
+           480:{
+               items:1,
+               
+           }
+       }
+   })
+    </script>
 </body>
 
 </html>

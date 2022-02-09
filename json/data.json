@@ -14,8 +14,8 @@
 "image":"img/events/Data Science.jpeg",
 "eventName":"DATA SCIENCE ",
 "speaker":"Sivakumar N",
-"date":"October 8,2021",
-"speakerImg":"img/team/Harsha.jpg",
+"date":"December 12,2021",
+"speakerImg":"img/team/Sivakumar.jpg",
 "description":"llamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdoygdhbvdystfgdvbsh"
 },
 {
@@ -23,8 +23,8 @@
 "image":"img/events/Github.jpg",
 "eventName":"GITHUB",
 "speaker":"Jaya Roshini",
-"date":"October 8,2021",
-"speakerImg":"img/team/Harsha.jpg",
+"date":"January 22,2022",
+"speakerImg":"img/team/jayaroshini.jpg",
 "description":"nt-ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojjhguyhjbdusygdhbvdystfgdvbsh"
 },
 {
@@ -32,17 +32,9 @@
     "image":"img/events/Github.jpg",
     "eventName":"FRONTED DEVELOPMENT",
     "speaker":"Yogeshwaran",
-    "date":"October 8,2021",
-    "speakerImg":"img/team/Harsha.jpg",
+    "date":"February 05,2022",
+    "speakerImg":"img/team/yogeshwaran.jpg",
     "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
-    },
-    {
-        "id":5,
-        "image":"img/events/Github.jpg",
-        "eventName":"FIGMA",
-        "speaker":"Sai Tharun",
-        "date":"October 8,2021",
-        "speakerImg":"img/team/Harsha.jpg",
-        "description":"offevntjyiujjhguyhjbdusygdhbvdystfgdvbsh"
-        }
+    }
+   
 ]
