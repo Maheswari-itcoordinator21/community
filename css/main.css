@@ -222,7 +222,7 @@ html {
   height: 544px;
   margin: 145px 0 31px 98px;
   padding: 36px 0 68px 60px;
-  opacity: 0.5;
+
   background-color: rgba(116, 211, 11, 0.16);
   display: flex;
   justify-content: center;
@@ -266,7 +266,7 @@ html {
   border-radius: 20px;
   background-color: #fff;
   width: 300px;
-  height: 420px;
+  height: 400px;
 }
 #Rectangle-186 {
   width: 200px;
