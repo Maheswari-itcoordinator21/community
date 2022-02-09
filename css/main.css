@@ -220,7 +220,7 @@ html {
 #slider {
   width: 1133px;
   height: 544px;
-  margin: 145px 0 31px 98px;
+  margin: 145px 0 31px 104px;
   padding: 36px 0 68px 60px;
 
   background-color: rgba(116, 211, 11, 0.16);
@@ -278,7 +278,7 @@ html {
 }
 #upcoming {
   margin-top: -30%;
-  margin-left: -28%;
+  margin-left: -32%;
   width: 270px;
   word-wrap: break-word;
   font-family: Poppins;
@@ -307,7 +307,7 @@ html {
   letter-spacing: 0.6px;
   text-align: left;
   color: #000;
-  margin-top: 15px;
+  margin-top: 25px;
 }
 .date {
   margin: 50px 20px 4px 5px;
@@ -334,7 +334,7 @@ html {
   letter-spacing: 0.6px;
   text-align: left;
   color: #000;
-  margin-top: 6px;
+  margin-top: 4px;
   margin-left: 14px;
 }
 #img {
@@ -1155,7 +1155,7 @@ h3 {
     width: 260px;
     height: 200px;
     border-radius: 20px;
-    margin-left: 3px;
+    margin-left: -3px;
   }
   #upcoming {
     display: none;
@@ -1180,7 +1180,7 @@ h3 {
   .slider-wrapper {
     width: 300px;
     height: 500px;
-    margin-left: 5px;
+    margin-left: 6px;
     margin: auto;
   }
   .container {
@@ -1209,7 +1209,7 @@ h3 {
     width: 230px;
     height: 200px;
     border-radius: 20px;
-    margin-left: -20px;
+    margin-left: -6px;
   }
   #upcoming {
     display: none;
@@ -1229,7 +1229,7 @@ h3 {
   .container {
     width: 1600px;
     margin: auto;
-    margin-left: -80px;
+    margin-left: -90px;
   }
   .Rectangle-185 {
     height: 350px;
@@ -1239,6 +1239,7 @@ h3 {
   }
   .event {
     font-size: 9.4px;
+    margin-left: 10px;
   }
   .date {
     font-size: 8px;
