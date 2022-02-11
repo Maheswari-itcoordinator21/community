@@ -1,58 +1,18 @@
 [{
     "id": 1,
     "image": "img/leadership/lakshana.jpg",
-    "name": "Lakshanaa",
+    "name": "Ram Kishore",
     "design": "Data Scientist",
     "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/lakshanaa-g-s-481ba8214"
+    "linked": "https://www.linkedin.com/in/ram-kishore-005727219"
 },
 {
     "id": 2,
     "image": "img/leadership/tharun.jpeg",
-    "name": "Tharun Adhithya",
+    "name": "Maithreyan",
     "design": "Android Developer",
     "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/tharun-adhithya-209363201/"
-},
-{
-    "id": 3,
-    "image": "img/developers/subiksha.jfif",
-    "name": "Subiksha",
-    "design": "Frontend Developer",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/subiksha-m-s-a978171b0/"
-},
-{
-    "id": 4,
-    "image": "img/leadership/shyam.jpeg",
-    "name": "Shyam",
-    "design": "Data Scientist",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/shyam-k-636203200/"
-},
-{
-    "id": 5,
-    "image": "img/leadership/maheswari.jpeg",
-    "name": "Maheswari",
-    "design": "Frontend Developer",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/maheswari-s-8107761b0/"
-},
-
-{
-    "id": 6,
-    "image": "img/developers/ranjani.jpeg",
-    "name": "Ranjani",
-    "design": "Frontend Developer",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/ranjani-k-3488121b0/"
-},
-{
-    "id": 7,
-    "image": "img/leadership/renu.jfif",
-    "name": "Renu Konda",
-    "design": "Data Scientist",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/renu-konda/"
+    "linked": "https://www.linkedin.com/in/maithreyan-m-768b20219"
 }
+
 ]

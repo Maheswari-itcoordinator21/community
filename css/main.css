@@ -212,22 +212,21 @@ html {
   display: inline-flex;
 }
 .slider-wrapper {
-  width: 890px;
+  width: 825px;
   height: 600px;
   margin-left: 50px;
   padding: 6px;
 }
 #slider {
   width: 1133px;
-  height: 544px;
-  margin: 145px 0 31px 104px;
-  padding: 36px 0 68px 60px;
+  height: 464px;
 
+  margin: 145px 0 31px 240px;
+  padding: 36px 0 68px 60px;
   background-color: rgba(116, 211, 11, 0.16);
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
 }
 .container {
   width: 1600px;
@@ -265,8 +264,8 @@ html {
   padding: 15px 19px 15px 15px;
   border-radius: 20px;
   background-color: #fff;
-  width: 300px;
-  height: 400px;
+  width: 389px;
+  height: 360px;
 }
 #Rectangle-186 {
   width: 200px;
@@ -278,11 +277,11 @@ html {
 }
 #upcoming {
   margin-top: -30%;
-  margin-left: -32%;
-  width: 270px;
+  margin-left: -45%;
+  width: 300px;
   word-wrap: break-word;
   font-family: Poppins;
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 500;
   font-stretch: normal;
   font-style: normal;
@@ -297,9 +296,9 @@ html {
 
 .event {
   flex-grow: 0;
-  margin-left: 13px;
+  padding-left: 5px;
   font-family: Poppins;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
@@ -308,6 +307,11 @@ html {
   text-align: left;
   color: #000;
   margin-top: 25px;
+}
+.calender {
+  color: #74d30b;
+  width: 15px;
+  height: 15px;
 }
 .date {
   margin: 50px 20px 4px 5px;
@@ -322,11 +326,14 @@ html {
   text-align: left;
   color: #000;
 }
+.online {
+  word-spacing: 1rem;
+}
 .abt {
   flex-grow: 0;
 
   font-family: Poppins;
-  font-size: 12.3px;
+  font-size: 12px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -338,11 +345,10 @@ html {
   margin-left: 14px;
 }
 #img {
-  width: 340px;
-  height: 250px;
+  width: 350px;
+  height: 200px;
   border-radius: 5px;
-  margin-left: 25px;
-  margin-top: 5px;
+  margin: auto;
 }
 
 /*====Footer Section====*/
